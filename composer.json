@@ -1,0 +1,19 @@
+{
+    "name": "gregersboye/shopify",
+    "autoload": {
+        "psr-0" : {
+            "GregersBoye\\Shopify" : "src"
+        }
+    },
+      "authors": [
+      {
+          "name": "Gregers Boye-Jacobsen",
+          "email": "gregers.boye@gmail.com",
+          "homepage": "https://github.com/GregersBoye"
+      }
+    ],
+      "require": {
+        "php": ">=5.3.0",
+        "guzzlehttp/guzzle": "~4"
+    },
+}
